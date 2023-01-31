@@ -1,0 +1,9 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact{
+  margin-top: 150px;
+  padding: 50px;
+}
